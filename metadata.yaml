@@ -1,0 +1,46 @@
+_repo: The-Three-Mulla-mulgars_32620
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lathrop, Dorothy Pulis
+    alias: Lathrop, Dorothy P. (Dorothy Pulis)
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '32530'
+    url: http://www.gutenberg.org/2009/agents/32530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Ramal, Walter
+    - Mare, Walter de la
+    - De la Mare, Walter John
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: Later re-titled The Three Royal Monkeys , this fantastical tale follows
+  three monkeys Thumb, Thimble, and Nod on their journey across wintry Africa in order
+  to live with their uncle. Along the way they encounter strange and curious creatures,
+  deadly beasts, and other wildly imaginative characters. A beautiful, wondrous story
+  ideal for adults and young readers alike.
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monkeys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+title: The Three Mulla-mulgars
+url: http://www.gutenberg.org/ebooks/32620
